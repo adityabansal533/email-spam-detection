@@ -125,10 +125,5 @@ Ham
 
 **Aditi**
 
-B.Sc. (Hons.) Computer Science
-
-Machine Learning Project
-
-2026
 
 
