@@ -121,9 +121,13 @@ Ham
 
 ---
 
+## 🚀 Live Demo
+
+http://localhost:8501/
+
+---
+
 ## 👩‍💻 Author
 
 **Aditi**
-
-http://localhost:8501/
 
