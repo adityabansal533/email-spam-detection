@@ -5,6 +5,12 @@ This project is a Machine Learning application that classifies emails as **Spam*
 
 ---
 
+## 🚀 Live Demo
+
+https://email-spam-detection-xayphv5emjhwwuuev6eahk.streamlit.app/
+
+---
+
 ## 🎯 Objectives
 - Detect spam emails automatically.
 - Improve email security.
